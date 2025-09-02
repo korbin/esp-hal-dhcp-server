@@ -10,7 +10,7 @@ target/
 *.pdb
 .env
 
+Cargo.lock
 
 # Added by cargo
-
 /target
